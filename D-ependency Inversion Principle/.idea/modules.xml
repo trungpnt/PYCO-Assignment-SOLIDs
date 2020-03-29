@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/D-ependency Inversion Principle.iml" filepath="$PROJECT_DIR$/.idea/D-ependency Inversion Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DI-CONFORMED/DI-CONFORMED.iml" filepath="$PROJECT_DIR$/DI-CONFORMED/DI-CONFORMED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DI-VIOLATED/DI-VIOLATED.iml" filepath="$PROJECT_DIR$/DI-VIOLATED/DI-VIOLATED.iml" />
+    </modules>
+  </component>
+</project>

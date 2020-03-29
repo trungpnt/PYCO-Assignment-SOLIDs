@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L-CONFORMED/L-CONFORMED.iml" filepath="$PROJECT_DIR$/L-CONFORMED/L-CONFORMED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L-VIOLATED/L-VIOLATED.iml" filepath="$PROJECT_DIR$/L-VIOLATED/L-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/L-iskov's Subsitution Principle.iml" filepath="$PROJECT_DIR$/.idea/L-iskov's Subsitution Principle.iml" />
+    </modules>
+  </component>
+</project>

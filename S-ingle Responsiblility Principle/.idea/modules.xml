@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S-CONFORMED/S-CONFORMED.iml" filepath="$PROJECT_DIR$/S-CONFORMED/S-CONFORMED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S-VIOLATED/S-VIOLATED.iml" filepath="$PROJECT_DIR$/S-VIOLATED/S-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/S-ingle Responsiblility Principle.iml" filepath="$PROJECT_DIR$/.idea/S-ingle Responsiblility Principle.iml" />
+    </modules>
+  </component>
+</project>

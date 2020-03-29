@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/O-Principle.iml" filepath="$PROJECT_DIR$/.idea/O-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O-Principle-CONFORMED/O-Principle-CONFORMED.iml" filepath="$PROJECT_DIR$/O-Principle-CONFORMED/O-Principle-CONFORMED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O-Principle-VIOLATED/O-Principle-VIOLATED.iml" filepath="$PROJECT_DIR$/O-Principle-VIOLATED/O-Principle-VIOLATED.iml" />
+    </modules>
+  </component>
+</project>

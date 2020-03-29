@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/O-Principle/O-Principle.iml" filepath="$PROJECT_DIR$/O-Principle/O-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O-Principle/O-Principle-VIOLATED.iml" filepath="$PROJECT_DIR$/O-Principle/O-Principle-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYCO - SOLID -  Assignment.iml" filepath="$PROJECT_DIR$/.idea/PYCO - SOLID -  Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Responsibility CONFORMED/Single Responsibility CONFORMED.iml" filepath="$PROJECT_DIR$/Single Responsibility CONFORMED/Single Responsibility CONFORMED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Responsibility VIOLATED/Single Responsibility VIOLATED.iml" filepath="$PROJECT_DIR$/Single Responsibility VIOLATED/Single Responsibility VIOLATED.iml" />
+    </modules>
+  </component>
+</project>
